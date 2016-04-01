@@ -1,0 +1,7 @@
+composer.lock
+vendor
+.idea
+tests/tmp/*
+tests/tmp/.gitkeep
+phpmd.xml
+phpunit.xml

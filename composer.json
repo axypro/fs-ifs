@@ -1,0 +1,29 @@
+{
+    "name": "axy/fs-ifs",
+    "type": "library",
+    "description": "Abstraction of file system functions",
+    "keywords": [
+        "File system",
+        "file",
+        "directory"
+    ],
+    "homepage": "https://github.com/axypro/fs-ifs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleg Grigoriev",
+            "email": "go.vasac@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "axy\\fs\\ifs\\": ""
+        }
+    },
+    "archive": {
+        "exclude": ["/tests/*", "/doc/*", "/cs.sh", "/phpmd.sh", "/*.xml.dist", "/CHANGELOG.md"]
+    }
+}
