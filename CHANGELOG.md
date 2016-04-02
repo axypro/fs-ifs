@@ -1,3 +1,7 @@
+### 0.0.3 (02.04.2016)
+
+* Documentation
+
 ### 0.0.2 (02.04.2016)
 
 * Documentation
