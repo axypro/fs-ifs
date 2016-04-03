@@ -60,7 +60,7 @@ Differences:
 | `changeCurrentDirectory($directory)` | [chdir](http://php.net/chdir) | * | |
 | `getCurrentDirectory()`  | [getcwd](http://php.net/getcwd) | * | |
 
-* **1**: `open` returns an instance of [IFile](IFile)
+* **1**: `open` returns an instance of [IFile](IFile.md)
 * **2**: if the argument `$mask` defined for the method `getMode` then it used with the result: `getMode($fn, 0070)` - returns the group permissions.
-* **3**: `getStat` and `getLinkStat` returns an instance of [Stat](Stat).
+* **3**: `getStat` and `getLinkStat` returns an instance of [Stat](Stat.md).
 

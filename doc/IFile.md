@@ -33,10 +33,10 @@ These methods throw [exception](errors) instead WARNINGs.
 | `getChar()` | [fgetc](http://php.net/fgetc) | * | |
 | `getLine($length)` | [fgets](http://php.net/fgets) | * | |
 | `lock($operation, &$wb)` | [flock](http://php.net/flock) | * | |
-| `getStat()` | [fstat](http://php.net/fstat) | * | [Stat](Stat) |
+| `getStat()` | [fstat](http://php.net/fstat) | * | [Stat](Stat.md) |
 | `setPosition($offset, $whence)` | [fseek](http://php.net/fseek) | * | |
 | `getPosition()` | [ftell](http://php.net/ftell) | * | |
 | `rewindPosition()` | [rewind](http://php.net/rewind) | * | |
 | `truncate($size)` | [truncate](http://php.net/truncate) | * | |
-| `getMetaData()` | [stream_get_meta_data](http://php.net/stream_get_meta_data) | * | [MetaData](MetaData) |
+| `getMetaData()` | [stream_get_meta_data](http://php.net/stream_get_meta_data) | * | [MetaData](MetaData.md) |
 
