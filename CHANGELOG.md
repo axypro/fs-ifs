@@ -1,3 +1,7 @@
+### dev
+
+* Travis: PHP 7.1
+
 ### 0.0.3 (02.04.2016)
 
 * Documentation
