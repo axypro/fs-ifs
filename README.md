@@ -41,4 +41,4 @@ For example, work with real FS is [axy/fs-real](https://github.com/axypro/fs-rea
 * [Stat](doc/Stat.md) - result of `stat()`.
 * [MetaData](doc/MetaData.md) - meta data of an opened file.
 * [Exceptions](doc/errors.md).
-
+* [Factory](doc/Factory.md).
